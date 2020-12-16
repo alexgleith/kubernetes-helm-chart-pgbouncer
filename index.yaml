@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  pgbouncer:
+  - apiVersion: v1
+    created: "2020-12-16T19:52:36.079558+11:00"
+    description: PgBouncer chart
+    digest: d7af5f9d321d3eceb991d8570bacc1d9e2b34d9afa118a99dc9121affb5c3b65
+    name: pgbouncer
+    urls:
+    - https://alexgleith.github.io/kubernetes-helm-chart-pgbouncer/pgbouncer-1.0.8.tgz
+    version: 1.0.8
+generated: "2020-12-16T19:52:36.078585+11:00"
